@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    compile 'lt.neworld:kupiter:v1.0.0'
+    compile 'lt.neworld:kupiter:1.0.0'
 }
 ```
 
