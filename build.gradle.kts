@@ -4,6 +4,7 @@ val jupiterVersion = "5.0.3"
 plugins {
     kotlin("jvm") version "1.2.21"
     id("org.junit.platform.gradle.plugin")
+    maven
 }
 
 group = "lt.neworld"
