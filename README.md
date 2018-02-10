@@ -1,5 +1,20 @@
-Kupiter is Kotlin DLS for [Junit5](https://junit.org/junit5/). 
+[![](https://jitpack.io/v/neworld/kupiter.svg)](https://jitpack.io/#neworld/kupiter)
+![](https://img.shields.io/badge/DSL-Junit5-brightgreen.svg)
+
+Kupiter is Kotlin DSL for [Junit5](https://junit.org/junit5/). 
 Current API is only for [dynamic tests](https://junit.org/junit5/docs/current/user-guide/#writing-tests-dynamic-tests).
+
+### Get it
+
+```gradle
+repositories {
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    compile 'com.github.neworld:kupiter:v1.0.0'
+}
+```
 
 ### Examples
 
